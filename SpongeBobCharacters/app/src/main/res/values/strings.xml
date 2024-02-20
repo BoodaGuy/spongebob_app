@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">SpongeBob  Characters</string>
+
+    <!-- SpongeBob Description - String 1 -->
+    <string name="spongebob_description_1">בובספוג מכנסמרובע:</string>
+
+    <!-- SpongeBob Description - String 2 -->
+    <string name="spongebob_description_2">הדמות הראשית בסדרה.</string>
+
+    <!-- SpongeBob Description - String 3 -->
+    <string name="spongebob_description_3">בובספוג הוא ספוג צהוב. הוא אופטימי ומאוד ידידותי. בובספוג גר בתוך אננס, בשכנות לסקווידוויד ופטריק. הוא עובד במסעדה המצליחה "הסרטן הפריך" בתור טבח המכין קציצות סרטן. אוהב להתאמן עם חברתו הסנאית סנדי בקראטה, להפריח בועות סבון ולדוג מדוזות עם כוכב הים פטריק, חברו הטוב ביותר.</string>
+
+
+
+    <!-- Patrick Description - String 1 -->
+    <string name="patrick_description_1">פטריק:</string>
+
+    <!-- Patrick Description - String 2 -->
+    <string name="patrick_description_2">פטריק הוא כוכב ים ורוד, וחברו הטוב ביותר של בובספוג.</string>
+
+    <!-- Patrick Description - String 3 -->
+    <string name="patrick_description_3">פטריק הוא מגושם וטיפש, וגר מתחת לסלע בשכנות לבובספוג ולסקווידוויד. פטריק ובובספוג ידועים בהתנהגותם הילדותית ובמסירותם לתחביביהם: לדוג מדוזות, הערצתם אל איש הים ונער הקסם, הפרחת בועות סבון וכדומה. בעל אחות גדולה בשם סם ואחות קטנה לא קאנונית בשם סקווידינה שהופיעה בפרק \"ליצנים על הירח\".</string>
+
+    <!-- Squidward Description - String 1 -->
+    <string name="squidward_description_1">סקווידוויד:</string>
+
+    <!-- Squidward Description - String 2 -->
+    <string name="squidward_description_2">תמנון ממורמר, גס רוח ואינו חברותי.</string>
+
+    <!-- Squidward Description - String 3 -->
+    <string name="squidward_description_3">סקווידוויד הוא שכנם של בובספוג ופטריק, וגר בתוך מואי. סקווידוויד שונא את שכניו, אך עובד יחד עם בובספוג במסעדת "הסרטן הפריך" כקופאי. בזמנו הפנוי הוא נוהג לנגן בקלרינט (אף על התגובות השליליות שהוא מקבל), ללכת למוזיאון, לרקוד, לפסל ולצייר את עצמו. מעריץ של הלהקה "בנים שבוכים". סקווידוויד מתנהג בחוסר סבלנות כלפי המשחקים של בובספוג ופטריק ומנסה לחבל בהם על מנת להשיג לעצמו שקט ושלווה. בובספוג ופטריק חושבים שהוא החבר הטוב ביותר שלהם ובטוחים שגם הוא חושב כך, אף על פי שהוא מראה להם באופן תדיר את שנאתו העזה אליהם.</string>
+
+    <!-- Sandy Description - String 1 -->
+    <string name="sandy_description_1">סנדי:</string>
+
+    <!-- Sandy Description - String 2 -->
+    <string name="sandy_description_2">סנאית, חברתם הטובה של בובספוג ופטריק.</string>
+
+    <!-- Sandy Description - String 3 -->
+    <string name="sandy_description_3">פגשה את בובספוג לאחר שהציל אותה מצדפה בעונה 1. סנדי היא מדענית אשר הגיעה ממדינת טקסס ונחשבת לאחת הדמויות האינטליגנטיות ביותר בביקיני בוטום. מכיוון שסנאים חיים ביבשה, סנדי חובשת קסדת אוויר וחליפה אשר מבודדת אותה מהמים, סנדי גרה בתוך כיפה המלאה באוויר, ובה מאפייני חיים יבשתיים רבים כגון: עץ, דשא ואפילו מזרקה קטנה עם ציפור בתוכה. סנדי בעלת חגורה שחורה בקראטה ונוהגת להתאמן עם בובספוג.</string>
+
+    <!-- Mr. Krabs Description - String 1 -->
+    <string name="mr_krabs_description_1">מר קראב:</string>
+
+    <!-- Mr. Krabs Description - String 2 -->
+    <string name="mr_krabs_description_2">סרטן הבוס של בובספוג וסקווידוויד.</string>
+
+    <!-- Mr. Krabs Description - String 3 -->
+    <string name="mr_krabs_description_3">מר קראב גר בבית בצורת עוגן והוא בעל מסעדת הסרטן הפריך ומעסיקם של בובספוג וסקווידוויד. מר קראב הוא אביו של פרל ובנו של גברת קראב. מכיוון שלא סומך על בנקים, הוא מחביא את כל הונו מתחת למזרן השינה שלו כי הוא קמצן. מר קראב הוא בן למשפחת שודדי ים. קראב מתנהג בקמצנות. מכר את נשמתו להולנדי המעופף.</string>
+
+    <!-- Gary Description - String 1 -->
+    <string name="gary_description_1">גארי:</string>
+
+    <!-- Gary Description - String 2 -->
+    <string name="gary_description_2">גארי הוא חיית המחמד של בובספוג.</string>
+
+    <!-- Gary Description - String 3 -->
+    <string name="gary_description_3">גארי הוא חילזון, אולם קולו מוצג בסדרה בקול של חתול. אומנם אנו איננו מבינים את יללותיו של גארי באופן מפורש, אך בובספוג מבין אותן לרוב כאילו דיברו באותה השפה. החבר הטוב ביותר של ספוט לפי הפרק גרי וספוט".</string>
+
+    <!-- Larry Description - String 1 -->
+    <string name="larry_description_1">לארי:</string>
+
+    <!-- Larry Description - String 2 -->
+    <string name="larry_description_2">מציל בים של ביקיני בוטום</string>
+
+    <!-- Larry Description - String 3 -->
+    <string name="larry_description_3">לארי הוא לובסטר שרירי, אשר מרבה לבלות בחדרי כושר ובתחרויות הרמת משקולות וזריקת עוגנים. הפך למנהל בסרטן הפריך לזמן קצר בפרק לארי המנהל.</string>
+
+    <!-- Mermaid Man Description - String 1 -->
+    <string name="mermaid_man_description_1">איש הים:</string>
+
+    <!-- Mermaid Man Description - String 2 -->
+    <string name="mermaid_man_description_2">גיבור על לשעבר, מושא הערצתם של בובספוג ופטריק.</string>
+
+    <!-- Mermaid Man Description - String 3 -->
+    <string name="mermaid_man_description_3">איש הים מתגורר יחד עם נער הקסם בבית האבות שבביקיני בוטום, ידוע בפחדו מהמילה "רשע" ובכל פעם ששומע אותה מתחיל להילחץ, לרוץ ולא לשלוט בעצמו. מעין פרודיה על "אקווהמן" ו"באטמן".</string>
+
+    <!-- Barnacle Boy Description - String 1 -->
+    <string name="barnacle_boy_description_1">נער הפלא:</string>
+
+    <!-- Barnacle Boy Description - String 2 -->
+    <string name="barnacle_boy_description_2">עוזרו ושותפו הנאמן של איש הים.</string>
+
+    <!-- Barnacle Boy Description - String 3 -->
+    <string name="barnacle_boy_description_3">על אף שהוא קשיש, איש הים רואה בו ילד קטן, מעין פרודיה על "רובין".</string>
+
+    <!-- Pearl Description - String 1 -->
+    <string name="pearl_description_1">פרל:</string>
+
+    <!-- Pearl Description - String 2 -->
+    <string name="pearl_description_2">בתו הלווייתנית בת הטיפש-עשרה של מר קראב.</string>
+
+    <!-- Pearl Description - String 3 -->
+    <string name="pearl_description_3">היא מפונקת מאוד, רגישה, בכיינית ושטחית בעיקר, אוהבת ללכת לקניון ולהסתובב עם חברותיה ולעיתים קרובות היא מובכת בידי אביה. מעריצה של הלהקה "בנים שבוכים". חברי הלהקה הופיעו ביום הולדתה ה-16 בזכות בובספוג. פעמים רבות חברותיה יורדות עליה ואף טענו באחד הפרקים שהיא ובובספוג נועדו זה לזה, דבר שהעליב אותה מאוד.</string>
+
+    <!-- Sheldon J. Plankton Description - String 1 -->
+    <string name="plankton_description_1">שלדון פלנקטון:</string>
+
+    <!-- Sheldon J. Plankton Description - String 2 -->
+    <string name="plankton_description_2">פלנקטון הוא פלנקטון ומכאן נובע שמו, הוא הנבל הראשי של הסדרה.</string>
+
+    <!-- Sheldon J. Plankton Description - String 3 -->
+    <string name="plankton_description_3">יצור מזערי שמנהל את "מסעדת הדלי" הכושלת בה הוא גר, ומנסה למכור מזון בשם "נזיד הקישקעס", רעל שרק פטריק אוהב. באחד הפרקים (176) סקווידוויד מצליח להפוך את הנזיד לאוכל אהוב ביותר, אך בסופו הוא התפטר מתפקידו. אויבו המושבע של מר קראב. פלנקטון ידוע בניסיונותיו הכושלים לגנוב את הנוסחה של קציצת הסרטן, הנמצאת בכספת של מר קראב ב"סרטן הפריך". בעבר פלנקטון ומר קראב היו ידידים, ואף ניסו להקים מסעדה יחדיו, אך פרצה ביניהם מריבה והם נפרדו לתמיד. במהלך אותה מריבה, פלנקטון גרם בטעות ליצירת קציצת הסרטן. אשתו של פלנקטון היא מחשב בשם קרן, הנוהגת ללעוג לפלנקטון על מזימותיו בכוונה לגנוב את הנוסחה הסודית לקציצת הסרטן.</string>
+
+
+
+    <string-array name="characters_names">
+        <item>@string/spongebob_description_1</item>
+        <item>@string/patrick_description_1</item>
+        <item>@string/squidward_description_1</item>
+        <item>@string/sandy_description_1</item>
+        <item>@string/mr_krabs_description_1</item>
+        <item>@string/gary_description_1</item>
+        <item>@string/larry_description_1</item>
+        <item>@string/mermaid_man_description_1</item>
+        <item>@string/barnacle_boy_description_1</item>
+        <item>@string/pearl_description_1</item>
+        <item>@string/plankton_description_1</item>
+
+    </string-array>
+
+    <string-array name="characters_descriptions_2">
+        <item>@string/spongebob_description_2</item>
+        <item>@string/patrick_description_2</item>
+        <item>@string/squidward_description_2</item>
+        <item>@string/sandy_description_2</item>
+        <item>@string/mr_krabs_description_2</item>
+        <item>@string/gary_description_2</item>
+        <item>@string/larry_description_2</item>
+        <item>@string/mermaid_man_description_2</item>
+        <item>@string/barnacle_boy_description_2</item>
+        <item>@string/pearl_description_2</item>
+        <item>@string/plankton_description_2</item>
+    </string-array>
+
+    <string-array name="characters_descriptions_3">
+        <item>@string/spongebob_description_3</item>
+        <item>@string/patrick_description_2</item>
+        <item>@string/squidward_description_3</item>
+        <item>@string/sandy_description_3</item>
+        <item>@string/mr_krabs_description_3</item>
+        <item>@string/gary_description_3</item>
+        <item>@string/larry_description_3</item>
+        <item>@string/mermaid_man_description_3</item>
+        <item>@string/barnacle_boy_description_3</item>
+        <item>@string/pearl_description_3</item>
+        <item>@string/plankton_description_3</item>
+    </string-array>
+
+
+
+</resources>
